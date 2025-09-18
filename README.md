@@ -1,6 +1,6 @@
 # 👋 Hola, soy Emilio Arriaga Guzmán  
 
-Soy estudiante de **Ingeniería en Sistemas**, apasionado por el desarrollo web, la programación y la creación de proyectos que resuelvan problemas reales. Me gusta aprender nuevas tecnologías y experimentar con diferentes herramientas.  
+Soy estudiante de **Ingeniería en Sistemas**, apasionado por el desarrollo web, la programación y la creación de proyectos que resuelvan problemas reales. Me gusta aprender nuevas tecnologías y experimentar con diferentes herramientas. Actualmente me encuentro aprendiendo y mejorando mis habilidades en desarrollo backend.   
 
 ---
 
@@ -27,8 +27,8 @@ Soy estudiante de **Ingeniería en Sistemas**, apasionado por el desarrollo web,
 
 ## 📫 Cómo contactarme
 - ✉️ Correo: *(emilioag2703@gmail.com)*  
-- 🌐 LinkedIn: *[www.linkedin.com/in/emilioguzmán](www.linkedin.com/in/emilioguzmán)*  
+- 🌐 LinkedIn: *[www.linkedin.com/in/emilioguzmán](https://www.linkedin.com/in/emilioguzm%C3%A1n/)*  
 
 ---
 
-⭐ Si te interesa colaborar o revisar mis proyectos, no dudes en escribirme.  
+⭐ Si te interesa colaborar o revisar mis proyectos, ¡no dudes en escribirme!.  

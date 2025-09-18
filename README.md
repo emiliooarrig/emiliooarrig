@@ -6,7 +6,7 @@ Soy estudiante de **Ingeniería en Sistemas**, apasionado por el desarrollo web,
 
 ## 🛠️ Tecnologías y herramientas
 - **Lenguajes:** PHP, Python, C++, JavaScript, Java. 
-- **Frameworks y librerías:** NodeJS, Laravel, Flask, TailwindCSS, Bootstrap  
+- **Frameworks y librerías:** NodeJS, Laravel, Flask, Bootstrap.
 - **Bases de datos:** MySQL, MariaDB, MongoDB.  
 - **Otros:** Git, GitHub, Linux. 
 
